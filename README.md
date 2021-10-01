@@ -2,7 +2,7 @@
 
 🔴 I'm 22 years old
 
-🟠 Current location is Belarus
+🟠 Current location is Poland
 
 🟡 I’m interested in Full-stack web development
 
