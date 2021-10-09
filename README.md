@@ -6,9 +6,9 @@
 
 🟡 I’m interested in Full-stack web development
 
-🟢 I’m currently learning JavaScript, ReactJS, nodeJS and Python (Django framework)
+🟢 I’m currently learning JavaScript, React, Redux and node.js
 
-🔵 I’m looking to job offer
+🔵 I’m looking for a job offer
 
 🟣 How to reach me: just send me a mail - perfoys.officialelite@gmail.com
 
