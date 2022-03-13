@@ -6,9 +6,9 @@
 
 🟡 I’m interested in Full-stack web development
 
-🟢 I’m currently learning JavaScript, React, Redux and node.js
+🟢 I’m currently learning JS, TS, React, and node.js
 
-🔵 I’m looking for a job offer
+🔵 I'm a software developer at Itransition
 
 🟣 How to reach me: just send me a mail - perfoys.officialelite@gmail.com
 
