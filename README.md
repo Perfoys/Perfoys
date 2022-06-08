@@ -8,7 +8,7 @@
 
 🟢 I’m currently learning JS, TS, React, and node.js
 
-🔵 I'm a software developer at Itransition
+🔵 I'm looking for a job offer
 
 🟣 How to reach me: just send me a mail - perfoys.officialelite@gmail.com
 
